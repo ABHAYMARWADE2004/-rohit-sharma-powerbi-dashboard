@@ -1,0 +1,52 @@
+Overall_Century_No,Format,Century_No_In_Format,Score,Runs,Not_Out,Opponent,Venue,Date,Year,Match_Result
+1,ODI,1,114,114,False,Zimbabwe,Bulawayo,2010-05-28,2010,Lost
+2,ODI,2,101*,101,True,Sri Lanka,Bulawayo,2010-05-30,2010,Won
+3,ODI,3,141*,141,True,Australia,Jaipur,2013-10-13,2013,Won
+4,ODI,4,209,209,False,Australia,Bengaluru,2013-11-02,2013,Won
+5,Test,1,177,177,False,West Indies,Kolkata,2013-11-06,2013,N/A
+6,Test,2,111*,111,True,West Indies,Mumbai,2013-11-14,2013,N/A
+7,ODI,5,264,264,False,Sri Lanka,Kolkata,2014-11-13,2014,Won
+8,ODI,6,138,138,False,Australia,Melbourne,2015-01-18,2015,Lost
+9,ODI,7,137,137,False,Bangladesh,Melbourne,2015-03-19,2015,Won
+10,T20I,1,106,106,False,South Africa,Dharamshala,2015-10-02,2015,Lost
+11,ODI,8,150,150,False,South Africa,Kanpur,2015-10-11,2015,Lost
+12,ODI,9,171*,171,True,Australia,Perth,2016-01-12,2016,Lost
+13,ODI,10,124,124,False,Australia,Brisbane,2016-01-15,2016,Lost
+14,ODI,11,123*,123,True,Bangladesh,Birmingham,2017-06-15,2017,Won
+15,ODI,12,124*,124,True,Sri Lanka,Pallekele,2017-08-27,2017,Won
+16,ODI,13,104,104,False,Sri Lanka,Colombo,2017-08-31,2017,Won
+17,ODI,14,125,125,False,Australia,Nagpur,2017-10-01,2017,Won
+18,ODI,15,147,147,False,New Zealand,Kanpur,2017-10-29,2017,Won
+19,Test,3,102*,102,True,Sri Lanka,Nagpur,2017-11-24,2017,N/A
+20,ODI,16,208*,208,True,Sri Lanka,Mohali,2017-12-13,2017,Won
+21,T20I,2,118,118,False,Sri Lanka,Indore,2017-12-22,2017,Won
+22,ODI,17,115,115,False,South Africa,Port Elizabeth,2018-02-13,2018,Won
+23,T20I,3,100*,100,True,England,Bristol,2018-07-08,2018,Won
+24,ODI,18,137*,137,True,England,Nottingham,2018-07-12,2018,Won
+25,ODI,19,111*,111,True,Pakistan,Dubai,2018-09-23,2018,Won
+26,ODI,20,152*,152,True,West Indies,Guwahati,2018-10-21,2018,Won
+27,ODI,21,162,162,False,West Indies,Mumbai,2018-10-29,2018,Won
+28,T20I,4,111*,111,True,West Indies,Lucknow,2018-11-06,2018,Won
+29,ODI,22,133,133,False,Australia,Sydney,2019-01-12,2019,Lost
+30,ODI,23,122*,122,True,South Africa,Southampton,2019-06-05,2019,Won
+31,ODI,24,140,140,False,Pakistan,Manchester,2019-06-16,2019,Won
+32,ODI,25,102,102,False,England,Birmingham,2019-06-30,2019,Lost
+33,ODI,26,104,104,False,Bangladesh,Birmingham,2019-07-02,2019,Won
+34,ODI,27,103,103,False,Sri Lanka,Leeds,2019-07-06,2019,Won
+35,Test,4,176,176,False,South Africa,Visakhapatnam,2019-10-02,2019,N/A
+36,Test,5,127,127,False,South Africa,Visakhapatnam,2019-10-05,2019,N/A
+37,Test,6,212,212,False,South Africa,Ranchi,2019-10-19,2019,N/A
+38,ODI,28,159,159,False,West Indies,Visakhapatnam,2019-12-18,2019,Won
+39,ODI,29,119,119,False,Australia,Bengaluru,2020-01-19,2020,Won
+40,Test,7,161,161,False,England,Chennai,2021-02-13,2021,N/A
+41,Test,8,127,127,False,England,The Oval,2021-09-04,2021,N/A
+42,ODI,30,101,101,False,New Zealand,Indore,2023-01-24,2023,Won
+43,Test,9,120,120,False,Australia,Nagpur,2023-02-09,2023,N/A
+44,Test,10,103,103,False,West Indies,Roseau,2023-07-13,2023,N/A
+45,ODI,31,131,131,False,Afghanistan,Delhi,2023-10-11,2023,Won
+46,T20I,5,121*,121,True,Afghanistan,Bengaluru,2024-01-17,2024,Won
+47,Test,11,131,131,False,England,Rajkot,2024-02-15,2024,N/A
+48,Test,12,103,103,False,England,Dharamshala,2024-03-07,2024,N/A
+49,ODI,32,119,119,False,England,Cuttack,2025-02-09,2025,Won
+50,ODI,33,121*,121,True,Australia,Sydney,2025-10-25,2025,Won
+51,ODI,34,138,138,False,England,Lord's,2026-07-19,2026,Lost
